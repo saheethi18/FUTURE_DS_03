@@ -1,3 +1,4 @@
+Track Code: DS(Data Science & Analytics)
 📊 Marketing Funnel Analysis (Task Description)
 📌 Objective
 The objective of this task is to analyze the marketing funnel to understand how users move through different stages—from visitors to customers—and identify where the highest drop-offs occur. This helps businesses optimize conversion strategies and improve overall performance.
